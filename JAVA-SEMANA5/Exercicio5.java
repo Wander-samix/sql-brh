@@ -11,9 +11,9 @@ public class Exercicio5 {
         System.out.println(">>> Listagem de Produtos");
         System.out.println("___________________________________");
         System.out.println("Nome: " + nomeProduto1);
-        System.out.println("Preço: " + valorProduto1);
+        System.out.println("Preço: R$" + valorProduto1);
         System.out.println("___________________________________");
         System.out.println("Nome: " + nomeProduto2);
-        System.out.println("Preço: " + valorProduto2);
+        System.out.println("Preço: R$" + valorProduto2);
     }
 }
